@@ -1,0 +1,9 @@
+1. Why react?
+2. What we should know before learning react
+	a. html, css and javascript
+	b. es6 syntax => first understand 
+	c. jsx
+3. What we should do to setup development for react. 
+	a. Install node js => comes with npm package
+	b. install yarn => its fast to install
+	c. some react developer tools on firefox and chrome 
